@@ -1,0 +1,399 @@
+id,issue,ticket,raw_label
+tr-00020,Wrong or missing keys,"Received: 2026-09-05 (Sat)
+Source: ivr-transcript
+
+[IVR transcript] Hey, How can I check if I have received a refund if it is not yet on my statement? 978 rupees is the amount. I have contacted support about this before. Mode: wallet. Using the Android app. This happened on 02-09-26. Thanks.","{""category"": ""refund"", ""prio"": ""low"", ""amount_paise"": 97800, ""txn_date"": ""02/09/2026"", ""txn_id"": null, ""channel"": ""wallet"", ""language"": ""en"", ""needs_human"": true}"
+tr-00049,Wrong or missing keys,"Received: 2026-09-01 (Tue)
+Source: ivr-transcript
+
+[IVR transcript]  Regsitered email id kaise change karun? Dhanyavaad.","{""category"": ""other"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00058,Wrong or missing keys,"Received: 2026-09-13 (Sun)
+Source: ivr-transcript
+
+[IVR transcript] Dear NimbusPay support, I tried to make a transfer and it didn't work. This happened on Aug 26. Thanks.","{""category"": ""payment_failed"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": ""26/08/2026"", ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-00060,Invalid JSON,"Received: 2026-09-17 (Thu)
+Source: email
+
+Subject: Complaint
+
+Hi team,
+Everytime I try to prove my identity it won't let me. Bank ref no 974846156473.
+
+Regards,
+Ananya Bose","{""category"": ""kyc"", ""priority"": ""P3"", ""amount_paise"": null, ""txn_date"": null, ""t"
+tr-00072,Wrong or missing keys,"Received: 2026-06-01 (Mon)
+Source: ivr-transcript
+
+[IVR transcript] Hello ji, PAN verfiication fail ho raha hai KYC mein, detalis sahi hain. Teesri baar bol raha hoon. Bank ref 804327892092 hai.","{""category"": ""kyc"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": true}"
+tr-00077,Wrong or missing keys,"Received: 2026-08-04 (Tue)
+Source: ivr-transcript
+
+[IVR transcript] Hello ji, Saamaan wapas kar diya, ab tak paise wapas nahi mile. Wallet se hua tha. Rs 37,006.99 kat gaye. 6 din pehle ki baat hai. Android app use kar raha hoon. Dhanyavaad.","{""category"": ""refund"", ""prio"": ""medium"", ""amount_paise"": 3700699, ""txn_date"": ""29/07/2026"", ""txn_id"": null, ""channel"": ""wallet"", ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00095,Invalid JSON,"Received: 2026-09-15 (Tue)
+Source: app-chat
+
+Dear NimbusPay support, May I have another card? My phone is a Realme 11. Thanks.","{""category"": ""other"", ""priority"": ""P3"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""c"
+tr-00114,Wrong or missing keys,"Received: 2026-06-09 (Tue)
+Source: ivr-transcript
+
+[IVR transcript] Sir, International transfer ki fees kya hai? Jaldi solve karo please.","{""category"": ""other"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00120,Wrong or missing keys,"Received: 2026-07-01 (Wed)
+Source: ivr-transcript
+
+[IVR transcript] Sir, Mera NimbusPay account band kar do. Android app use kar raha hoon. Reply ka wait kar raha hoon.","{""category"": ""other"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00123,Wrong or missing keys,"Received: 2026-07-23 (Thu)
+Source: ivr-transcript
+
+[IVR transcript] Hello, How can I fix this? There is a double charge on my account. It was a UPI transaction. Otherwise I will approach the consumer court. Total ₹477. This happened on 21st July 2026. Please look into it.","{""category"": ""refund"", ""prio"": ""high"", ""amount_paise"": 47700, ""txn_date"": ""21/07/2026"", ""txn_id"": null, ""channel"": ""upi"", ""language"": ""en"", ""needs_human"": true}"
+tr-00125,Invalid JSON,"Received: 2026-08-18 (Tue)
+Source: app-chat
+
+Hey, My card payment didn't work. Dated 12-08-26. It is Rs. 3925 in total. The txn id is NP6948115654. My earlier ticket number is #99485. Kindly resolve this asap.","{""category"": ""payment_failed"", ""priority"": ""P3"", ""amount_paise"": 392500, ""txn_date"": ""2026-08-12"", ""t"
+tr-00153,Wrong or missing keys,"Received: 2026-09-07 (Mon)
+Source: ivr-transcript
+
+[IVR transcript] URGENT!! I want a refund because my package has been taking too long to arrive. How do I go about doing that? Transaction date 04-09-26. It was from the NimbusPay wallet. My account balance is Rs. 40445 right now. Ref: np6205356299 I am on the iOS app. Rs. 2290 was the value. Thanks.","{""category"": ""refund"", ""prio"": ""low"", ""amount_paise"": 229000, ""txn_date"": ""04/09/2026"", ""txn_id"": ""NP6205356299"", ""channel"": ""wallet"", ""language"": ""en"", ""needs_human"": false}"
+tr-00160,Wrong or missing keys,"Received: 2026-08-09 (Sun)
+Source: ivr-transcript
+
+[IVR transcript] Dear NimbusPay support, Card refund is not showing up in my statement. My account balance is Rs 432.50 right now. It took place yesterday. Amount: Rs 2,28,108.99 Waiting for your reply.","{""category"": ""refund"", ""prio"": ""high"", ""amount_paise"": 22810899, ""txn_date"": ""08/08/2026"", ""txn_id"": null, ""channel"": ""card"", ""language"": ""en"", ""needs_human"": true}"
+tr-00172,Invalid JSON,"Received: 2026-09-12 (Sat)
+Source: twitter
+
+@NimbusPayCare My identity can't be verified.","{""category"": ""kyc"", ""priority"": ""P3"", ""amount_paise"": null, ""txn_date"": null, ""txn_i"
+tr-00178,Wrong or missing keys,"Received: 2026-07-19 (Sun)
+Source: ivr-transcript
+
+[IVR transcript] Hello, How can receive a physical card. App version is 4.0.13. Kindly resolve this asap.","{""category"": ""other"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-00192,Wrong or missing keys,"Received: 2026-06-23 (Tue)
+Source: ivr-transcript
+
+[IVR transcript]  Can my password be reset if I do not have it? Using the Android app. Please look into it.","{""category"": ""account_access"", ""prio"": ""medium"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-00219,Wrong or missing keys,"Received: 2026-08-29 (Sat)
+Source: ivr-transcript
+
+[IVR transcript] Dear NimbusPay support, My scratch card reward has not been added. The amount was 407 rupees. I am on the iOS app. Waiting for your reply.","{""category"": ""offers"", ""prio"": ""low"", ""amount_paise"": 40700, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-00223,Wrong or missing keys,"Received: 2026-06-06 (Sat)
+Source: ivr-transcript
+
+[IVR transcript] Bhai, Promo code apply nahi ho raha checkout pe. App version 7.9.0 hai. Please help karo.","{""category"": ""offers"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00249,Wrong or missing keys,"Received: 2026-09-02 (Wed)
+Source: ivr-transcript
+
+[IVR transcript] Sir, Merchant bol raha hai refund kar diya, lekin mujhe mila nahi. Card se hua tha. INR 23,874 kat gaye. np8899503046 check kar lo. 23rd August 2026 ki transaction hai. Dhanyavaad.","{""category"": ""refund"", ""prio"": ""medium"", ""amount_paise"": 2387400, ""txn_date"": ""23/08/2026"", ""txn_id"": ""NP8899503046"", ""channel"": ""card"", ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00258,Wrong or missing keys,"Received: 2026-07-10 (Fri)
+Source: ivr-transcript
+
+[IVR transcript] Hello, My card payment doesn't work. App version is 6.4.2. Please look into it.","{""category"": ""payment_failed"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": ""card"", ""language"": ""en"", ""needs_human"": false}"
+tr-00263,Wrong or missing keys,"Received: 2026-07-13 (Mon)
+Source: ivr-transcript
+
+[IVR transcript] URGENT!! The top up failed. FYI my daily limit is 4.8k. It is Rs. 382 in total. Ref: NP 3624161927 This happened on 11-07-26. Kindly resolve this asap.","{""category"": ""payment_failed"", ""prio"": ""low"", ""amount_paise"": 38200, ""txn_date"": ""11/07/2026"", ""txn_id"": ""NP3624161927"", ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-00267,Invalid JSON,"Received: 2026-09-14 (Mon)
+Source: app-chat
+
+Dear NimbusPay support, The app failed to verify me. Please help.","{""category"": ""kyc"", ""priority"": ""P3"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channe"
+tr-00320,Wrong or missing keys,"Received: 2026-09-15 (Tue)
+Source: ivr-transcript
+
+[IVR transcript] Hi, I would prefer a Mastercard. My phone is a Realme 11. Thanks.","{""category"": ""other"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-00346,Wrong or missing keys,"Received: 2026-07-03 (Fri)
+Source: ivr-transcript
+
+[IVR transcript] Sir, App har thodi der mein logout kar deta hai, account access nahi ho raha. Android app use kar raha hoon. Jaldi solve karo please.","{""category"": ""account_access"", ""prio"": ""medium"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00347,Wrong or missing keys,"Received: 2026-08-08 (Sat)
+Source: ivr-transcript
+
+[IVR transcript] Namaste, Order cancel kar diya tha par refund abhi tak nahi aaya. Yeh 07-08-26 ko hua. Reference NP2208645220 hai. Reply ka wait kar raha hoon.","{""category"": ""refund"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": ""07/08/2026"", ""txn_id"": ""NP2208645220"", ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00357,Invalid JSON,"Received: 2026-06-19 (Fri)
+Source: app-chat
+
+Hi, Help! I forgot my password. Please look into it.","{""category"": ""account_access"", ""priority"": ""P2"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"
+tr-00365,Wrong or missing keys,"Received: 2026-08-06 (Thu)
+Source: ivr-transcript
+
+[IVR transcript] Good morning, I see that I have been charged multiple times for the same transaction. Ref: np 26934 77197 It was a netbanking transaction. Please look into it.","{""category"": ""refund"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": ""NP2693477197"", ""channel"": ""netbanking"", ""language"": ""en"", ""needs_human"": false}"
+tr-00370,Wrong or missing keys,"Received: 2026-09-14 (Mon)
+Source: ivr-transcript
+
+[IVR transcript] Hey, Can you help me transfer money into my friend's bank account? I tried to do it but it keeps rejecting me. I need to get the money in there asap. I have enough and all the account info is correct. Mode: UPI. Bank ref no 338445682455. Amount: Rs. 205439 ID: np9679788188 Dated 10-09-26. My phone is a Redmi Note 12. Kindly resolve this asap.","{""category"": ""payment_failed"", ""prio"": ""high"", ""amount_paise"": 20543900, ""txn_date"": ""10/09/2026"", ""txn_id"": ""NP9679788188"", ""channel"": ""upi"", ""language"": ""en"", ""needs_human"": true}"
+tr-00385,Wrong or missing keys,"Received: 2026-09-02 (Wed)
+Source: ivr-transcript
+
+[IVR transcript]  PAN verification fail ho raha hai KYC mein, detials sahi hain. Dhanyavaad.","{""category"": ""kyc"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00457,Wrong or missing keys,"Received: 2026-06-13 (Sat)
+Source: ivr-transcript
+
+[IVR transcript] Hi, The coupon I applied gave no discount.","{""category"": ""offers"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-00461,Wrong or missing keys,"Received: 2026-08-13 (Thu)
+Source: ivr-transcript
+
+[IVR transcript] Hello, How can I unblock a blocked pin number for my account? I am on the iOS app. Please look into it.","{""category"": ""account_access"", ""prio"": ""medium"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-00475,Wrong or missing keys,"Received: 2026-08-05 (Wed)
+Source: ivr-transcript
+
+[IVR transcript]  OTP nahi aa raha isliye sign in nahi kar pa raha. Pichla ticket number #59192 tha. Please help karo.","{""category"": ""account_access"", ""prio"": ""medium"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00478,Invalid JSON,"Received: 2026-07-09 (Thu)
+Source: app-chat
+
+Can I get a refund? The transaction amount is 160416 rupees. Ref: np 18937 58181 Kindly resolve this asap.","{""category"": ""refund"", ""priority"": ""P1"", ""amount_paise"": 16041600, ""txn_date"": null, ""txn_id"": ""NP1893758181"", ""channe"
+tr-00497,Invalid JSON,"Received: 2026-06-27 (Sat)
+Source: twitter
+
+@NimbusPayCare I tried to top up but the app rejected it. 2423 rupees was the value. This happened day before yesterday. I am using app version 7.7.18.","{""category"": ""payment_failed"", ""priority"": ""P3"", ""amount_paise"": 242300, ""txn_date"": "
+tr-00516,Wrong or missing keys,"Received: 2026-07-24 (Fri)
+Source: ivr-transcript
+
+[IVR transcript] Good morning, Can you tell me why I wasn't able to complete my transfer? It is 14317 rupees in total. I am on the iOS app. Ref: NP3607511307 Mode: UPI. Please look into it.","{""category"": ""payment_failed"", ""prio"": ""medium"", ""amount_paise"": 1431700, ""txn_date"": null, ""txn_id"": ""NP3607511307"", ""channel"": ""upi"", ""language"": ""en"", ""needs_human"": false}"
+tr-00556,Wrong or missing keys,"Received: 2026-07-13 (Mon)
+Source: ivr-transcript
+
+[IVR transcript] Bhai, Order cancel kar diya tha par refund abhi tak nahi aaya. Amount Rs 232.25 tha. 13/07/2026 ki transaction hai. Transaction ID NP-5144277563 hai. Consumer court jaunga. Wallet se hua tha. Bank ref 177006129019 hai. Jaldi solve karo please.","{""category"": ""refund"", ""prio"": ""high"", ""amount_paise"": 23225, ""txn_date"": ""13/07/2026"", ""txn_id"": ""NP5144277563"", ""channel"": ""wallet"", ""language"": ""hi-en"", ""needs_human"": true}"
+tr-00558,Invalid JSON,"Received: 2026-07-31 (Fri)
+Source: twitter
+
+@NimbusPayCare Why did the transfer fail when I attempted to do it earlier? Total ₹1,51,370. This happened yesterday. Transaction ID np 86216 59965. Mode: internet banking. I am on the iOS app.","{""category"": ""payment_failed"", ""priority"": ""P1"", ""amount_paise"": 15137000, ""txn_date"": ""2026-07"
+tr-00577,Wrong or missing keys,"Received: 2026-08-08 (Sat)
+Source: ivr-transcript
+
+[IVR transcript] URGENT!! Please send my refund now. ₹628 is the amount. This happened day before yesterday. Mode: wallet. Kindly resolve this asap.","{""category"": ""refund"", ""prio"": ""low"", ""amount_paise"": 62800, ""txn_date"": ""06/08/2026"", ""txn_id"": null, ""channel"": ""wallet"", ""language"": ""en"", ""needs_human"": false}"
+tr-00589,Wrong or missing keys,"Received: 2026-06-14 (Sun)
+Source: ivr-transcript
+
+[IVR transcript] Hi, My reward points from the ofefr are missing. I have already written 4 times about this. ₹263 is the amount. Bank ref no 122365698186. Please help.","{""category"": ""offers"", ""prio"": ""low"", ""amount_paise"": 26300, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": true}"
+tr-00602,Wrong or missing keys,"Received: 2026-06-30 (Tue)
+Source: ivr-transcript
+
+[IVR transcript] Namaste, Shopping ka payment decline ho gaya lekin bank ne paise kaat liye. Amount Rs 1,908.99 tha. kal ki baat hai. Mera phone Vivo Y56 hai. Netbanking se hua tha. Txn id NP6239657882.","{""category"": ""payment_failed"", ""prio"": ""low"", ""amount_paise"": 190899, ""txn_date"": ""29/06/2026"", ""txn_id"": ""NP6239657882"", ""channel"": ""netbanking"", ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00605,Invalid JSON,"Received: 2026-07-28 (Tue)
+Source: email
+
+Subject: Complaint
+
+URGENT!!
+Why was I not able to complete my transfer? Total ₹377. FYI my daily limit is ₹247. Using the Android app. This happened on Jul 25. Please look into it.
+
+Regards,
+Kavya Reddy","{""category"": ""payment_failed"", ""priority"": ""P3"", ""amount_paise"": 37700, ""txn_date"":"
+tr-00606,Wrong or missing keys,"Received: 2026-06-28 (Sun)
+Source: ivr-transcript
+
+[IVR transcript] Hey, Why has my payment been declined? I paid by card. My account balance is INR 47,327 right now. ID: np 25790 98407 It is 41021 rupees in total.","{""category"": ""payment_failed"", ""prio"": ""medium"", ""amount_paise"": 4102100, ""txn_date"": null, ""txn_id"": ""NP2579098407"", ""channel"": ""card"", ""language"": ""en"", ""needs_human"": false}"
+tr-00610,Wrong or missing keys,"Received: 2026-07-15 (Wed)
+Source: ivr-transcript
+
+[IVR transcript] Namaste, PAN verification fail ho raha hai KYC mein, dteails sahi hain. Mera phone iPhone 13 hai. Please help karo.","{""category"": ""kyc"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00628,Wrong or missing keys,"Received: 2026-06-14 (Sun)
+Source: ivr-transcript
+
+[IVR transcript] Bhai, Ek anjaan transaction dikh raha hai jo mera nahi hai, account block karo. Rs. 360 ka transaction tha. Yeh 13-06-26 ko hua. Credit card wala transaction tha. Dhanyavaad.","{""category"": ""fraud"", ""prio"": ""high"", ""amount_paise"": 36000, ""txn_date"": ""13/06/2026"", ""txn_id"": null, ""channel"": ""card"", ""language"": ""hi-en"", ""needs_human"": true}"
+tr-00656,Wrong or missing keys,"Received: 2026-07-02 (Thu)
+Source: ivr-transcript
+
+[IVR transcript] Hello, I tried to make a purchase in the store but my card was declined. It was for Rs. 3975. Using the Android app. This happened on Jun 20. Transaction reference np3807097796. Please look into it.","{""category"": ""payment_failed"", ""prio"": ""low"", ""amount_paise"": 397500, ""txn_date"": ""20/06/2026"", ""txn_id"": ""NP3807097796"", ""channel"": ""card"", ""language"": ""en"", ""needs_human"": false}"
+tr-00670,Wrong or missing keys,"Received: 2026-09-02 (Wed)
+Source: ivr-transcript
+
+[IVR transcript] Sir, Order cancel kar diya tha par refund abhi tak nahi aaya. Transaction ID NP0310574891 hai. 15.2k ka transaction tha. Transaction date Aug 20 hai. Please help karo.","{""category"": ""refund"", ""prio"": ""medium"", ""amount_paise"": 1520000, ""txn_date"": ""20/08/2026"", ""txn_id"": ""NP0310574891"", ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00674,Invalid JSON,"Received: 2026-09-17 (Thu)
+Source: twitter
+
+@NimbusPayCare I can not seem to make a successful transfer, can you tell me what I'm doing wrong? The amount was 3385 rupees. It was a UPI transaction. It was yesterday. App version is 6.4.15.","{""category"": ""payment_failed"", ""priority"": ""P3"", ""amount_paise"": 338500, ""txn_date"": ""2026-09-16"", ""t"
+tr-00677,Wrong or missing keys,"Received: 2026-09-01 (Tue)
+Source: ivr-transcript
+
+[IVR transcript] Hi team, There is a cash withdrawal on my statement that I did not make. I am on the iOS app. You can check NP-5188247862. Date of transaction: Aug 14. Please look into it.","{""category"": ""fraud"", ""prio"": ""high"", ""amount_paise"": null, ""txn_date"": ""14/08/2026"", ""txn_id"": ""NP5188247862"", ""channel"": null, ""language"": ""en"", ""needs_human"": true}"
+tr-00685,Wrong or missing keys,"Received: 2026-06-21 (Sun)
+Source: ivr-transcript
+
+[IVR transcript] Hey, Why did I not get my refund yet? The amount was ₹746. Mode: credit card. ID: np 29977 53049 Bank ref no 957798474630. Thanks.","{""category"": ""refund"", ""prio"": ""low"", ""amount_paise"": 74600, ""txn_date"": null, ""txn_id"": ""NP2997753049"", ""channel"": ""card"", ""language"": ""en"", ""needs_human"": false}"
+tr-00704,Wrong or missing keys,"Received: 2026-06-05 (Fri)
+Source: ivr-transcript
+
+[IVR transcript]  I don't think I made this payment that is showing up. Total Rs. 2468. ID: np7195131873 It took place day before yesterday.","{""category"": ""fraud"", ""prio"": ""high"", ""amount_paise"": 246800, ""txn_date"": ""03/06/2026"", ""txn_id"": ""NP7195131873"", ""channel"": null, ""language"": ""en"", ""needs_human"": true}"
+tr-00735,Invalid JSON,"Received: 2026-08-16 (Sun)
+Source: app-chat
+
+Hey, Why can't my transfer complete? The txn id is NP-7764977551. Total Rs. 296879. Mode: internet banking. Please look into it.","{""category"": ""payment_failed"", ""priority"": ""P1"", ""amount_paise"": 29687900, ""txn_date"": null, ""txn_id"": ""NP7764977551"", ""channel"": ""net"
+tr-00744,Wrong or missing keys,"Received: 2026-06-05 (Fri)
+Source: ivr-transcript
+
+[IVR transcript] Hey, I entered my pin wrong too many times. Bank ref no 504916779953. I have already written 4 times about this. Kindly resolve this asap.","{""category"": ""account_access"", ""prio"": ""medium"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": true}"
+tr-00765,Invalid JSON,"Received: 2026-06-30 (Tue)
+Source: app-chat
+
+Bhai, Order cancel kar diya tha par refund abhi tak nahi aaya. Amount 136 rupaye tha. Yeh 3 din pehle hua. Card se hua tha. Txn id NP4193555354. Reply ka wait kar raha hoon.","{""category"": ""refund"", ""priority"": ""P3"", ""amount_paise"": 13600, ""txn_date"": ""2026-06-27"", ""txn_id"": ""NP4"
+tr-00778,Wrong or missing keys,"Received: 2026-07-20 (Mon)
+Source: ivr-transcript
+
+[IVR transcript]  I want to activate my new card. Using the Android app. Kindly resolve this asap.","{""category"": ""other"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-00791,Wrong or missing keys,"Received: 2026-09-10 (Thu)
+Source: ivr-transcript
+
+[IVR transcript] Sir, Shopping ka payment decline ho gaya lekin bank ne piase kaat liye. Rakam INR 1,397 hai. 31 Aug ki transaction hai. Txn id NP-0654739006. Wallet se hua tha. Dhanyavaad.","{""category"": ""payment_failed"", ""prio"": ""low"", ""amount_paise"": 139700, ""txn_date"": ""31/08/2026"", ""txn_id"": ""NP0654739006"", ""channel"": ""wallet"", ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00809,Invalid JSON,"Received: 2026-07-05 (Sun)
+Source: app-chat
+
+Maine merchant ko pay kiya, failed dikha raha hai par amount debit ho gaya. Reference NP-8738912683 hai. Card se hua tha. Android app use kar raha hoon. INR 970 ka transaction tha. Yeh 05/07/2026 ko hua. Reply ka wait kar raha hoon.","{""category"": ""payment_failed"", ""priority"": ""P3"", ""amount_paise"": 97000, ""txn_date"": ""2026-07-05"", ""txn_id"": ""NP8738912683"", ""channel"": ""c"
+tr-00820,Wrong or missing keys,"Received: 2026-06-04 (Thu)
+Source: ivr-transcript
+
+[IVR transcript] Hello ji, Bill pay kiya tha, fail ho gaya, par account se paise cahle gaye. Yeh 31-05-26 ko hua. Rs. 161 kat gaye. Dhanyavaad.","{""category"": ""payment_failed"", ""prio"": ""low"", ""amount_paise"": 16100, ""txn_date"": ""31/05/2026"", ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00824,Invalid JSON,"Received: 2026-06-23 (Tue)
+Source: app-chat
+
+Hello ji, Referral bonus nahi aaya, dost ne sign up kar liya hai. Total Rs. 271 ka tha. Android app use kar raha hoon.","{""category"": ""offers"", ""priority"": ""P3"", ""amount_paise"": 27100,"
+tr-00839,Wrong or missing keys,"Received: 2026-09-19 (Sat)
+Source: ivr-transcript
+
+[IVR transcript] Hi team, My card payment won't work. This is the third time I am contacting you. It took place day before yesterday. I am using app version 4.9.16. INR 33,978 was the value. Ref: NP7442118335 Thanks.","{""category"": ""payment_failed"", ""prio"": ""medium"", ""amount_paise"": 3397800, ""txn_date"": ""17/09/2026"", ""txn_id"": ""NP7442118335"", ""channel"": ""card"", ""language"": ""en"", ""needs_human"": true}"
+tr-00846,Invalid JSON,"Received: 2026-06-12 (Fri)
+Source: app-chat
+
+Hey, Why was my Payment declined. You can check NP 4657109851. It was from the NimbusPay wallet. Rs. 230 was the value. Kindly resolve this asap.","{""category"": ""payment_failed"", ""priority"": ""P3"", ""amount_paise"": 23000, ""txn_d"
+tr-00922,Wrong or missing keys,"Received: 2026-07-15 (Wed)
+Source: ivr-transcript
+
+[IVR transcript] Namaste, Coupon expired bata raha hai jabki offer abhi valid hai. App version 7.2.14 hai. Total INR 497 ka tha. Dhanyavaad.","{""category"": ""offers"", ""prio"": ""low"", ""amount_paise"": 49700, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-00958,Invalid JSON,"Received: 2026-08-29 (Sat)
+Source: app-chat
+
+Good morning, How long will it take to get my refund. Mode: wallet. This is the third time I am contacting you. 597 rupees is the amount. Please look into it.","{""category"": ""refund"", ""priority"": ""P3"", ""amount_paise"": 59700, ""txn_date"": null, ""txn_id"": null, ""channel"": ""wallet"
+tr-00960,Invalid JSON,"Received: 2026-08-22 (Sat)
+Source: app-chat
+
+Hi, Phone badalne ke baad account block ho gaya. RBI mein complaint kar dunga.","{""category"": ""account_access"", ""priority"": ""P1"", ""amount_paise"": null, ""txn_date"": null,"
+tr-00975,Invalid JSON,"Received: 2026-09-09 (Wed)
+Source: app-chat
+
+URGENT!! I don't understand where this charge came from. 944 rupees is the amount. Date of transaction: Aug 29. Mode: debit card. Please look into it.","{""category"": ""fraud"", ""priority"": ""P1"", ""amount_paise"": 94400, ""txn_date"": ""2026-08-"
+tr-00978,Invalid JSON,"Received: 2026-07-20 (Mon)
+Source: app-chat
+
+Hey, Is there a way to reset the passcode? My earlier ticket number is #10947. I am using app version 4.8.18. Please help.","{""category"": ""account_access"", ""priority"": ""P2"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""chann"
+tr-00979,Invalid JSON,"Received: 2026-08-08 (Sat)
+Source: app-chat
+
+Hello, I need to know why my credit card was declined for top up? What is the deal here and why did it not go through? Rs 833.25 was the value. My phone is a Pixel 7a. It was yesterday. I have contacted support about this before. Transaction reference NP 7335161087.","{""category"": ""payment_failed"", ""priority"": ""P3"", ""amount_paise"": 83325, ""txn_date"": ""2026-08-07"", ""txn_id"": ""NP7335161087"", ""channe"
+tr-00980,Invalid JSON,"Received: 2026-06-19 (Fri)
+Source: app-chat
+
+Hey, What information do I need to gather in order to activate my card? Using the Android app.","{""category"": ""other"", ""priority"": ""P3"", ""amount_paise"": null, ""txn_date"": nul"
+tr-00985,Wrong or missing keys,"Received: 2026-09-10 (Thu)
+Source: ivr-transcript
+
+[IVR transcript] Sir, Transaction decline ho gaya phir bhi bank se paisa chala gaya. Yeh Sep 2 ko hua. Android app use kar raha hoon. 2.3 lakh rupaye ka transaction tha. NP 7596774279 check kar lo. Reply ka wait kar raha hoon.","{""category"": ""payment_failed"", ""prio"": ""high"", ""amount_paise"": 23000000, ""txn_date"": ""02/09/2026"", ""txn_id"": ""NP7596774279"", ""channel"": null, ""language"": ""hi-en"", ""needs_human"": true}"
+tr-00987,Wrong or missing keys,"Received: 2026-06-28 (Sun)
+Source: ivr-transcript
+
+[IVR transcript] URGENT!! I'm still waiting on my identity verification. Thanks.","{""category"": ""kyc"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-01006,Wrong or missing keys,"Received: 2026-06-21 (Sun)
+Source: ivr-transcript
+
+[IVR transcript] Hey, My reward points from the offer are missing. Thanks.","{""category"": ""offers"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-01028,Wrong or missing keys,"Received: 2026-06-01 (Mon)
+Source: ivr-transcript
+
+[IVR transcript] Hi team, Why hasn't my card been delivered? Using the Android app.","{""category"": ""other"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-01046,Wrong or missing keys,"Received: 2026-07-04 (Sat)
+Source: ivr-transcript
+
+[IVR transcript] Hello, My card payment failed. Dated Jun 25. Transaction ID np 50851 80575. I am using app version 4.7.16. Rs 46,195.50 is the amount.","{""category"": ""payment_failed"", ""prio"": ""medium"", ""amount_paise"": 4619550, ""txn_date"": ""25/06/2026"", ""txn_id"": ""NP5085180575"", ""channel"": ""card"", ""language"": ""en"", ""needs_human"": false}"
+tr-01070,Invalid JSON,"Received: 2026-08-12 (Wed)
+Source: app-chat
+
+Hello, What's the problem? My card keeps getting declined for top up. I need to know what is going on. This happened on 11 Aug. Transaction ID NP 2339235751. My phone is a Samsung M34. It was for Rs. 17874. Thanks.","{""category"": ""payment_failed"", ""priority"": ""P2"", ""amount_paise"": 1787400, ""t"
+tr-01083,Wrong or missing keys,"Received: 2026-06-18 (Thu)
+Source: ivr-transcript
+
+[IVR transcript] URGENT!! I think my passcode was changed. My phone is a Vivo Y56. Please help.","{""category"": ""account_access"", ""prio"": ""medium"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-01087,Invalid JSON,"Received: 2026-07-22 (Wed)
+Source: email
+
+Subject: Help needed
+
+Hello,
+I did not get the cashback that was promised on the offer. It was a card transaction. Using the Android app.
+
+Regards,
+Rohan Gupta","{""category"": ""offers"", ""priority"": ""P3"", ""amount_paise"": null, ""txn_date"": null, ""txn_i"
+tr-01089,Wrong or missing keys,"Received: 2026-07-05 (Sun)
+Source: ivr-transcript
+
+[IVR transcript] URGENT!! I don't have a way to prove my identity. Thanks.","{""category"": ""kyc"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-01115,Wrong or missing keys,"Received: 2026-09-11 (Fri)
+Source: ivr-transcript
+
+[IVR transcript]  Phone badalne ke baad account block ho gaya. Baar baar complaint kar raha hoon.","{""category"": ""account_access"", ""prio"": ""medium"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": true}"
+tr-01133,Wrong or missing keys,"Received: 2026-07-27 (Mon)
+Source: ivr-transcript
+
+[IVR transcript]  I need help making this transfer. I keep getting an error. I'm trying to purchase a flat but i need my mortgage payment to go through first. Can you help? I am using app version 5.6.20. Ref: NP-3219136120 Transaction date 25-07-26. It was a UPI transaction. Thanks.","{""category"": ""payment_failed"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": ""25/07/2026"", ""txn_id"": ""NP3219136120"", ""channel"": ""upi"", ""language"": ""en"", ""needs_human"": false}"
+tr-01143,Wrong or missing keys,"Received: 2026-09-12 (Sat)
+Source: ivr-transcript
+
+[IVR transcript] Hi team, i need a refund right away but the funds aren't available in my account. It was for Rs. 3342. Mode: UPI. Date of transaction: 12th September 2026. My earlier ticket number is #80975. Ref: NP 9832669862","{""category"": ""refund"", ""prio"": ""low"", ""amount_paise"": 334200, ""txn_date"": ""12/09/2026"", ""txn_id"": ""NP9832669862"", ""channel"": ""upi"", ""language"": ""en"", ""needs_human"": false}"
+tr-01151,Wrong or missing keys,"Received: 2026-08-27 (Thu)
+Source: ivr-transcript
+
+[IVR transcript]  Phone badalne ke baad account block ho gaya. Consumer court jaunga. Jaldi solve karo please.","{""category"": ""account_access"", ""prio"": ""high"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": true}"
+tr-01158,Wrong or missing keys,"Received: 2026-06-30 (Tue)
+Source: ivr-transcript
+
+[IVR transcript] Hello ji, Return accept ho gaya par refund nahi aaya abhi tak. Pichla ticket number #59329 tha. App version 5.5.8 hai. NP-0414460548 check kar lo. Yeh aaj hua. Total Rs 280.50 ka tha. Account mein abhi 33381 rupaye pade hain. Dhanyavaad.","{""category"": ""refund"", ""prio"": ""low"", ""amount_paise"": 28050, ""txn_date"": ""30/06/2026"", ""txn_id"": ""NP0414460548"", ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-01178,Wrong or missing keys,"Received: 2026-08-14 (Fri)
+Source: ivr-transcript
+
+[IVR transcript] Hi, Why isn't my refund showing up? INR 2,770 is the amount. Date of transaction: 09-08-26. It was a UPI transaction. Ref: NP2270681561 My phone is a Redmi Note 12. Waiting for your reply.","{""category"": ""refund"", ""prio"": ""low"", ""amount_paise"": 277000, ""txn_date"": ""09/08/2026"", ""txn_id"": ""NP2270681561"", ""channel"": ""upi"", ""language"": ""en"", ""needs_human"": false}"
+tr-01199,Invalid JSON,"Received: 2026-07-29 (Wed)
+Source: app-chat
+
+URGENT!! my payment was rejected. It was a UPI transaction. The transaction amount is Rs 1,410.99. Please help.","{""category"": ""payment_failed"", ""priority"": ""P3"", ""amount_paise"": 141099, ""txn_date"": null, ""txn_id"": null,"
+tr-01202,Wrong or missing keys,"Received: 2026-09-20 (Sun)
+Source: ivr-transcript
+
+[IVR transcript] Hey, I'm looking in the App and can't find my PIN, where should I look? Please look into it.","{""category"": ""other"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-01274,Wrong or missing keys,"Received: 2026-07-24 (Fri)
+Source: ivr-transcript
+
+[IVR transcript] Dear NimbusPay support, I want a refund. Using the Android app. Amount: Rs 2,52,027.75 This happened on 23rd July 2026. The txn id is NP-2287050693. Thanks.","{""category"": ""refund"", ""prio"": ""high"", ""amount_paise"": 25202775, ""txn_date"": ""23/07/2026"", ""txn_id"": ""NP2287050693"", ""channel"": null, ""language"": ""en"", ""needs_human"": true}"
+tr-01286,Wrong or missing keys,"Received: 2026-08-26 (Wed)
+Source: ivr-transcript
+
+[IVR transcript] Hi team, My card's frozen, what can I do? Please look into it.","{""category"": ""account_access"", ""prio"": ""medium"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-01301,Wrong or missing keys,"Received: 2026-06-23 (Tue)
+Source: ivr-transcript
+
+[IVR transcript] Hello, I will not be able to verify my identity. Using the Android app. Waiting for your reply.","{""category"": ""kyc"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-01326,Wrong or missing keys,"Received: 2026-07-17 (Fri)
+Source: ivr-transcript
+
+[IVR transcript] Hey, I need a few more physical cards. This is the third time I am contacting you. Waiting for your reply.","{""category"": ""other"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": true}"
+tr-01331,Wrong or missing keys,"Received: 2026-09-04 (Fri)
+Source: ivr-transcript
+
+[IVR transcript] Hello, I want a refund for an item. 1283 rupees is the amount. App version is 4.1.10. Thanks.","{""category"": ""refund"", ""prio"": ""low"", ""amount_paise"": 128300, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-01343,Wrong or missing keys,"Received: 2026-07-20 (Mon)
+Source: ivr-transcript
+
+[IVR transcript] Bhai, Paise bheje the dost ko, usko mile nahi aur mere account se kat gaye. App version 7.5.5 hai. Transaction date 05/07/2026 hai. Jaldi solve karo please.","{""category"": ""payment_failed"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": ""05/07/2026"", ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": false}"
+tr-01359,Wrong or missing keys,"Received: 2026-06-03 (Wed)
+Source: ivr-transcript
+
+[IVR transcript] Good morning, Cashback from the shoppnig offer never reached my account. This is my second complaint on the same issue. Amount: Rs 167.25 I am using app version 6.5.0. Mode: wallet. Thanks.","{""category"": ""offers"", ""prio"": ""low"", ""amount_paise"": 16725, ""txn_date"": null, ""txn_id"": null, ""channel"": ""wallet"", ""language"": ""en"", ""needs_human"": true}"
+tr-01366,Wrong or missing keys,"Received: 2026-09-10 (Thu)
+Source: ivr-transcript
+
+[IVR transcript] Hi team, My payment for my card is not working. This happened today. It is 53535 rupees in total. The txn id is NP-6328454363. Please help.","{""category"": ""payment_failed"", ""prio"": ""high"", ""amount_paise"": 5353500, ""txn_date"": ""10/09/2026"", ""txn_id"": ""NP6328454363"", ""channel"": ""card"", ""language"": ""en"", ""needs_human"": true}"
+tr-01386,Wrong or missing keys,"Received: 2026-08-07 (Fri)
+Source: ivr-transcript
+
+[IVR transcript] Hello, I keep checking my bank statements but I don't see a refund that I've requested from a seller. Can you ensure that I receive the refund from the seller? Using the Android app. ID: NP6034667961 The transaction amount is 4.4k.","{""category"": ""refund"", ""prio"": ""low"", ""amount_paise"": 440000, ""txn_date"": null, ""txn_id"": ""NP6034667961"", ""channel"": null, ""language"": ""en"", ""needs_human"": false}"
+tr-01413,Wrong or missing keys,"Received: 2026-08-31 (Mon)
+Source: ivr-transcript
+
+[IVR transcript] Good morning, I'm really stuck. I don't know why but my card payment has not gone through. Ref: NP1719559097 The transaction amount is Rs 63.75.","{""category"": ""payment_failed"", ""prio"": ""low"", ""amount_paise"": 6375, ""txn_date"": null, ""txn_id"": ""NP1719559097"", ""channel"": ""card"", ""language"": ""en"", ""needs_human"": false}"
+tr-01441,Wrong or missing keys,"Received: 2026-06-06 (Sat)
+Source: ivr-transcript
+
+[IVR transcript] Hi, KYC reject ho gaya, photo unclear bol rahe hain. Pehle bhi complaint kar chuka hoon. Dhanyavaad.","{""category"": ""kyc"", ""prio"": ""low"", ""amount_paise"": null, ""txn_date"": null, ""txn_id"": null, ""channel"": null, ""language"": ""hi-en"", ""needs_human"": true}"
